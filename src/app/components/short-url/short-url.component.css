@@ -1,0 +1,8 @@
+app-spinner {
+  display: flex;
+  justify-content: center;
+}
+
+.alert{
+  text-align: center;
+}
